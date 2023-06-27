@@ -1,5 +1,5 @@
-# Cardápio
-
+# Cardápio Digital API
+ 
 Este é um projeto Java desenvolvido com o framework Spring Boot para gerenciar um cardápio de alimentos. O projeto consiste em uma API REST que permite salvar e recuperar informações sobre alimentos.
 
 ## Tecnologias utilizadas
