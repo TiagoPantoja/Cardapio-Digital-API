@@ -2,6 +2,14 @@
 
 Este é um projeto Java desenvolvido com o framework Spring Boot para gerenciar um cardápio de alimentos. O projeto consiste em uma API REST que permite salvar e recuperar informações sobre alimentos.
 
+## Tecnologias utilizadas
+
+- Java 17
+- Spring Boot 3.1
+- Spring Data JPA 3.1.1
+- HATEOAS
+- PostgreSQL
+
 ## Pré-requisitos
 
 - JDK 8 ou superior
